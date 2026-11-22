@@ -1,0 +1,36 @@
+# Python byte‑code & caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+ENV/
+env/
+.venv/
+# (if you use conda)
+conda-env/
+
+# IDE / editor specific
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS generated files
+Desktop.ini
+Thumbs.db
+.DS_Store
+
+# Log / temporary files
+*.log
+*.tmp
+*.bak
+
+# Credentials / secrets files (if you ever add them)
+.env
+*.env
